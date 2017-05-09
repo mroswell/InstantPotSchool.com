@@ -124,6 +124,19 @@ input:hover, input:checked + label div {
     content:"\f078";
 }
 
+.panel-title  {
+    display: block;
+    position: relative;
+}
+.panel-title:after {
+    content: "\f078"; /* fa-chevron-down */
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 0;
+}
+.panel-title[aria-expanded="true"]:after {
+    content: "\f077"; /* fa-chevron-up */
+
 
 .video-container {
     position: relative;
