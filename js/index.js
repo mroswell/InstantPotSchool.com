@@ -43,21 +43,21 @@ new Vue({
       {
         id:"cleaning",
         goal: "Understand what parts need to be cleaned",
-        detail: "Clean the liner pot after each use (hand-wash, or dishwasher). Clean the condensation cup when you notice that it has liquid in it. (q-tip, soap, and water). Clean the pot outer surface when you need it to look good for company (sponge). Clean the top when (this is probably the trickiest thing to clean. some combination of a sponge, or q-tip, or towel will help. Clean antiblock when you notice it has \"schmutz\" on it. Clean the O-ring occasionally.",
+        detail: "Clean the liner pot after each use (hand-wash, or dishwasher). Clean the condensation cup when you notice that it has liquid in it. (q-tip, soap, and water). Clean the pot outer surface when you need it to look good for company (sponge). Clean the top when (this is probably the trickiest thing to clean. some combination of a sponge, or q-tip, or towel will help. Clean antiblock when you notice it has \"schmutz\" on it. Clean the sealing ring occasionally.",
         author: "InstantPotSchool",
         section: "Getting Started"
       },
       {
         id: "tens",
         goal: "Understand the 10-second, and 10-minute waiting periods",
-        detail: "After you set the time, there will be a 10-second delay before the pot will display &ldquo;ON.&rdquo; People often wonder at that time if they did something wrong, but the IP is just giving you a chance to further change the time setting. So just count to ten in your favorite language, and the first waiting period will be complete, signalled by three beeps.\<p\>This also marks the beginning of the second waiting period, while the pot comes up to pressure. The second wait time will vary depending on ingredients, but it will generally be at least 10 minutes. So if you set the Manual button to 7 minutes, count on at least a 20-minute recipe (7 countdown minutes, \+ the preliminary 10 minutes to come up to pressure \+ some additional time for the pressure to release and the food to be cool enough to eat.",
+        detail: "After you set the time, there will be a 10-second delay before the pot will display &ldquo;ON.&rdquo; People often wonder at that time if they did something wrong, but the IP is just giving you a chance to further change the time setting. So just count to ten in your favorite language, and the first waiting period will be complete, signalled by three beeps.\<p\>This also marks the beginning of the second waiting period, while the pot comes up to pressure. The second wait time will vary depending on ingredients, but it will generally be at least 10 minutes. So if you set the Manual button to 7 minutes, count on at least a 20-minute recipe (7 countdown minutes, \+ the preliminary 10 minutes to come up to pressure \+ some additional time for the pressure to release and the food to be cool enough to eat.)",
         author: "InstantPotSchool",
         section: "Getting Started"
       },
       {
         id: "safe",
         goal: "Ensure Safe Quick Pressure Release",
-        detail: "The Instant Pot has many safety features built into it. There are two serious cautions: when you release the valve \(for recipes that call for Quick Pressure Release\) Take care NOT to have your hands near the extremely hot steam. Release the valve with a long metal utensil or a mitt. Also, don't play \"Oh, it\'s a spa steamer.\" In other words: Keep your hands and face away from the steam as it's released",
+        detail: "The Instant Pot has many safety features built into it. There are two serious cautions: when you release the valve \(for recipes that call for Quick Pressure Release\) Take care NOT to have your hands near the extremely hot steam. Release the valve with a long metal utensil or a mitt. Also, don't play &ldquo;Oh, it\'s a spa steamer.&rdquo; In essence: Keep your hands and face away from the steam as it&lsquo;s released",
         author: "InstantPotSchool",
         section: "Getting Started"
       }
