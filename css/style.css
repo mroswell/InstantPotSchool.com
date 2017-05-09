@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background: #1abc9c;*/
+    /*background: #bf821c;*/
+    /*background: #ffac20;*/
+    background: #c7c6c4;
+    color: #000;
+    font-family: 'Petrona', serif;
+    font-size: 24px;
+}
+
+/*HEADER*/
+h2 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+a {
+    color: #ff5500;
+}
+
+a:hover {
+    color: #000000; /* #78e7d1; */
+}
+
+input
+/*WRAPPER*/
+#wrapper {
+    margin: 40px auto 0;
+    width: 500px;
+    background-color: #fff;
+}
+
+#wrapper > div {
+    margin-bottom: 10px;
+}
+
+/*CHECKBOX*/
+input {
+    display: none;
+}
+
+label div {
+    width: 23px;
+    height: 23px;
+    display: inline-block;
+    border: 2px solid #444;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 6px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+label i {
+    font-size: 16px;
+    opacity: 0;
+}
+
+label div {
+    background: #16a085; /* #bf821c */
+    background: #bf821c;
+    background: #e2dfd9;
+}
+
+input:checked + label i {
+    opacity: 1; }
+}
+
+input {
+    background: #c3ccca;
+    background: #e2dfd9;
+    background: #c7c6c4;
+}
+input:hover, input:checked + label div {
+    background: #16a085; / * #bf821c */
+    /*background: #bf821c;*/
+}
+
+#IPHeading {
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+
+.panel-group {
+    width:60%;
+    margin:auto;
+    max-width: 1000px;
+}
+
+.panel-title {
+    font-size: 24px;
+    width:100%;
+    margin-top:6px;
+    margin-left:6px;
+}
+
+.panel-heading {
+    display: block;
+    cursor: pointer;
+}
+
+.panel-body p {
+    margin-top: 0.9em;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4 label, h5, h6 {
+    font:Patrona normal 28px;
+}
+
+.accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family:'FontAwesome';
+    content:"\f077";
+    float: right;
+    color: inherit;
+}
+.panel-heading.collapsed .accordion-toggle:after {
+    /* symbol for "collapsed" panels */
+    content:"\f078";
+}
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
