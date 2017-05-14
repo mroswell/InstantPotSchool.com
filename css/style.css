@@ -136,7 +136,7 @@ input:hover, input:checked + label div {
 }
 .panel-title[aria-expanded="true"]:after {
     content: "\f077"; /* fa-chevron-up */
-
+}
 
 .video-container {
     position: relative;
