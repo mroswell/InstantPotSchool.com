@@ -1,25 +1,3 @@
-// /* ONLY HTML & CSS - NO JAVASCRIPT */
-// $('input[type="checkbox"]').click(function(event) {
-//   // this.checked = false; // reset first
-//   return false;
-//   event.preventDefault();
-//   event.stopPropagation();
-//   // event.stopPropagation() like in Zoltan's answer would also spare some
-//   // handler execution time, but is no more needed here
-//
-//   // then do the heavy processing:
-//   alert('Break');
-// });
-
-
-function toggleChevron(e) {
-  $(e.target)
-    .prev('.panel-heading')
-    .find("i.indicator")
-    .toggleClass('glyphicon-chevron-down glyphicon-chevron-up');
-}
-$('#accordion').on('hidden.bs.collapse', toggleChevron);
-$('#accordion').on('shown.bs.collapse', toggleChevron);
 
 new Vue({
   el: '#accordion',
