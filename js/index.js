@@ -41,12 +41,20 @@ new Vue({
         section: "Getting Started"
       },
       {
-        id: "a",
+        id: "toggle_pressure",
         goal: "Toggle to low pressure while steaming",
         detail: "The Pressure key toggles between High Pressure and Low Pressure for the pressure cooking functions. This is especially helpful when steaming vegetables. To steam broccoli: Use a half-cup of water, then press Stream, Pressure, and the minus button down to zero. (Even with a setting of zero minutes and low pressure it will take some time before coming to pressure.",
         author: "InstantPotSchool",
         section: "Getting Comfortable"
-      }
+      },
+            {
+        id: "lid",
+        goal: "Use the lid holder and spoon holder",
+        detail: "",
+        author: "InstantPotSchool",
+        section: "Getting Comfortable"
+      },
+      
     ]
 
   },
