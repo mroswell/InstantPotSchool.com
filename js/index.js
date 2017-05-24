@@ -42,8 +42,8 @@ new Vue({
       },
       {
         id: "a",
-        goal: "",
-        detail: "",
+        goal: "Toggle to low pressure while steaming",
+        detail: "The Instant Pot Manual notes that 'the \"Pressure\" key toggles the pressure setting between \"High Pressure\” and \“Low Pressure\” for the pressure cooking functions.\" This is especially helpful when steaming vegetables. For instance, steam broccoli for zero minutes at Low pressure. Of course, there is still the time to come up to \(low\) pressure. In essence: press Stream, Pressure, and the minus button down to zero. Use a half-cup of water.",
         author: "InstantPotSchool",
         section: "Getting Comfortable"
       }
