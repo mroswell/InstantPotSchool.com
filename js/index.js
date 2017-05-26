@@ -54,10 +54,24 @@ new Vue({
         author: "InstantPotSchool",
         section: "Getting Comfortable"
       },
-            {
+        {
         id: "lid",
         goal: "Use the lid holder and spoon holder",
         detail: "",
+        author: "InstantPotSchool",
+        section: "Getting Comfortable"
+      },
+      {
+        id: "social",
+        goal: "Get to know the acronyms",
+        detail: "IP, QR, QPR, NR, NPR",
+        author: "InstantPotSchool",
+        section: "Getting Comfortable"
+      },
+            {
+        id: "social_norms",
+        goal: "Post appropriate questions on Instant Pot forums",
+        detail: "If you join a \"nutritarian\" Facebook group, make sure you have read the book \<i\>Eat to Live\<\\i\> before posting. If you join an Indian Instant Pot group, don\'t complain about ghee. In other words, get to know the community norms before posting.",
         author: "InstantPotSchool",
         section: "Getting Comfortable"
       },
