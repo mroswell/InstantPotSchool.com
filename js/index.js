@@ -22,14 +22,21 @@ new Vue({
       {
         id: "tens",
         goal: "Understand the 10-second and 10-minute waiting periods",
-        detail: "After you set the time, there will be a 10-second delay before the pot will display &ldquo;ON.&rdquo; People often wonder at that time if they did something wrong, but the Instant Pot is just giving you a chance to further change the time setting. Count to ten in your favorite language, and the first waiting period will be complete, signalled by three beeps.\<p\>This  marks the beginning of the second waiting period, while the pot comes up to pressure. The preheat wait time will vary depending on ingredients, but it will generally be at least 10 minutes. So if you set the Manual button to 5 minutes, count on at least a 20-minute recipe \<ul\> \<li\>10 seconds from the time you set the time\</li\> <li\>10 - 30 minutes while coming up to pressure </li\><li\>15 minutes for the pressure to release and the food to be cool enough to eat.\</li\>)",
+        detail: "After setting the time, there is a 10-second delay before the pot displays &ldquo;ON.&rdquo; During this delay, people often wonder if they did something wrong, but the Instant Pot is just offering a chance to further change the time. The 10-second waiting period completes with a signal of three beeps.\<p\>This is followed by a preheating period, while the pot comes up to pressure. The preheat time period will vary depending on ingredients, but it will generally be at least 10 minutes. So if a recipe calls for 5 minutes on the Manual setting, count on at least 25 minutes before eating \<ul\> \<li\>10 seconds from the time you set the time\</li\> <li\>10 - 20 minutes while coming up to pressure (depending on liquid level) </li\><li\>15 minutes for the pressure to release and the food to be cool enough to eat.\</li\>)",
         author: "InstantPotSchool",
         section: "Getting Started"
       },
       {
+      id: "steaming",
+        goal: "Relax about a little steam emitted during the preheating period",
+        detail: "Steam may release from the valve for a few minutes as the Instant Pot comes up to pressure. This is normal. If the pot continues to steam after the button has risen, consider contacting the manufacturer about getting a replacement. \(Even so, this may not be a problem if your recipe has a lot of liquid.\)",
+        author: "InstantPotSchool",
+        section: "Getting started"
+      },
+      {
         id: "safe",
-        goal: "Ensure Safe Quick Pressure Release",
-        detail: "The Instant Pot has many safety features built into it. There are two serious cautions: when you release the valve \(for recipes that call for Quick Pressure Release\) Take care NOT to have your hands near the extremely hot steam. Release the valve with a long metal utensil or a mitt. Also, don't play &ldquo;Oh, it\'s a spa steamer.&rdquo; In essence: Keep your hands and face away from the steam as it&lsquo;s released",
+        goal: "Ensure safe Quick Pessure Release (QPR)",
+        detail: "The Instant Pot has many safety features built into it. There are two serious cautions: when you release the valve \(for recipes that call for Quick Pressure Release\) take care NOT to have your hands near the extremely hot steam. Release the valve with a long metal utensil or a mitt. Also, don't play &ldquo;Oh, it\'s a spa steamer.&rdquo; In essence: Keep your hands and face away from the steam as it&lsquo;s released",
         author: "InstantPotSchool",
         section: "Getting Started"
       },
