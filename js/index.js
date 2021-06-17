@@ -35,7 +35,7 @@ new Vue({
       },
       {
         id: "safe",
-        goal: "Ensure safe Quick Pessure Release (QPR)",
+        goal: "Ensure safe Quick Pressure Release (QPR)",
         detail: "The Instant Pot has many safety features built into it. There are two serious cautions: when you release the valve \(for recipes that call for Quick Pressure Release\) take care NOT to have your hands near the extremely hot steam. Release the valve with a long metal utensil or a mitt. Also, don't play &ldquo;Oh, it\'s a spa steamer.&rdquo; In essence: Keep your hands and face away from the steam as it&lsquo;s released",
         author: "InstantPotSchool",
         section: "Getting Started"
